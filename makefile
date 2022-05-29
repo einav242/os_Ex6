@@ -1,5 +1,4 @@
 OBJECTS=Test.o
-# OBJECTS=guard.o main1.o pollserver.o reactor.o testAOserver.o AOclient.o guardtest.o pollclient.o queue.o singleton.o testsingleton.o
 CXX=clang++-9 
 CXXFLAGS=-std=c++2a 
 
