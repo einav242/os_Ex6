@@ -39,7 +39,9 @@ After you will run the server through the CMD By writing the line:
 Now the client can be added to the system To add a client we will write the next line in CMD:
 ./selectclient or ./test_reactor
 
-![4](https://user-images.githubusercontent.com/93201414/171163065-18bd96c8-9862-4020-b0eb-88cadba60e64.jpeg)
+![4 2](https://user-images.githubusercontent.com/93201414/171579616-2f72d2d8-3862-49aa-a5d2-898a20358fca.jpeg)
+
+
 
 How to Run  the test:
 open your CMD of the project and follow the instructions: First you need compile the project files, by writing the line in CMD:
@@ -50,7 +52,8 @@ Now the client can be added to the system To add a client we will write the next
 ./test
 
 
-![5](https://user-images.githubusercontent.com/93201414/171163113-858aace5-ff6f-4c3d-aeba-bd72d8921b96.jpeg)
+![5 2](https://user-images.githubusercontent.com/93201414/171579663-a37e78b7-2f1d-40c8-850a-9722fa07f7d5.jpeg)
+
 
 
 To build the shared object:
