@@ -8,7 +8,7 @@ make all
 After you will run the server through the CMD By writing the line:
 ./main1
 Now the client can be added to the system To add a client we will write the next line in CMD:
-for the test  ./client or ./ob_test
+./client or ./ob_test for the test 
 
 ![WhatsApp Image 2022-05-30 at 14 18 54](https://user-images.githubusercontent.com/93201414/171162855-9f56f4bb-e7f0-468c-82dc-9cfd0a9f0951.jpeg)
 
@@ -37,7 +37,7 @@ make all
 After you will run the server through the CMD By writing the line:
 ./selectserver
 Now the client can be added to the system To add a client we will write the next line in CMD:
-./selectclient or ./test_reactor
+./selectclient or ./test_reactor for the test 
 
 ![4 2](https://user-images.githubusercontent.com/93201414/171579616-2f72d2d8-3862-49aa-a5d2-898a20358fca.jpeg)
 
